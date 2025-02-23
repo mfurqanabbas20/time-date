@@ -1,6 +1,5 @@
 {
   "name": "@mfurqanabbas20/time-date",
-  "private": false,
   "version": "1.0.0",
   "description": "Package that returns 12-hour format time and standard date",
   "main": "index.js",
