@@ -1,0 +1,23 @@
+{
+  "name": "@mfurqanabbas20/time-date",
+  "version": "1.0.0",
+  "description": "Package that returns 12-hour format time and standard date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfurqanabbas20/time-date.git"
+  },
+  "keywords": [
+    "date",
+    "time"
+  ],
+  "author": "Muhammad Furqan Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfurqanabbas20/time-date/issues"
+  },
+  "homepage": "https://github.com/mfurqanabbas20/time-date#readme"
+}
